@@ -1,0 +1,15 @@
+Örnek Servlet
+=============
+
+Java Servlet (3.1) teknolojisi ile yazılmış klasik bir _"Merhaba Dünya"_ uygulamasıdır.
+
+Uygulamanın açıklamalı anlatımına (tutorial) [bu adresten](http://www.dorukdestan.com/tutorials/) erişebilirsiniz.
+
+Lisans
+------
+
+GPL v3
+
+`LICENSE` dosyasına bakınız.
+
+Türkçe bilgi için http://ozgurlisanslar.org.tr/
